@@ -1,0 +1,15 @@
+D:\DIT\ParsingDT\ParsingDT\bin\Debug\net6.0\ParsingDT.exe
+D:\DIT\ParsingDT\ParsingDT\bin\Debug\net6.0\ParsingDT.deps.json
+D:\DIT\ParsingDT\ParsingDT\bin\Debug\net6.0\ParsingDT.runtimeconfig.json
+D:\DIT\ParsingDT\ParsingDT\bin\Debug\net6.0\ParsingDT.dll
+D:\DIT\ParsingDT\ParsingDT\bin\Debug\net6.0\ParsingDT.pdb
+D:\DIT\ParsingDT\ParsingDT\obj\Debug\net6.0\ParsingDT.csproj.AssemblyReference.cache
+D:\DIT\ParsingDT\ParsingDT\obj\Debug\net6.0\ParsingDT.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIT\ParsingDT\ParsingDT\obj\Debug\net6.0\ParsingDT.AssemblyInfoInputs.cache
+D:\DIT\ParsingDT\ParsingDT\obj\Debug\net6.0\ParsingDT.AssemblyInfo.cs
+D:\DIT\ParsingDT\ParsingDT\obj\Debug\net6.0\ParsingDT.csproj.CoreCompileInputs.cache
+D:\DIT\ParsingDT\ParsingDT\obj\Debug\net6.0\ParsingDT.dll
+D:\DIT\ParsingDT\ParsingDT\obj\Debug\net6.0\refint\ParsingDT.dll
+D:\DIT\ParsingDT\ParsingDT\obj\Debug\net6.0\ParsingDT.pdb
+D:\DIT\ParsingDT\ParsingDT\obj\Debug\net6.0\ParsingDT.genruntimeconfig.cache
+D:\DIT\ParsingDT\ParsingDT\obj\Debug\net6.0\ref\ParsingDT.dll
